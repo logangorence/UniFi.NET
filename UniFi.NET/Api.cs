@@ -1,10 +1,10 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
-namespace KoenZomers.UniFi.Api
+namespace UniFi.NET
 {
     /// <summary>
     /// Api class to communicate with the UniFi Controller

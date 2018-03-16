@@ -1,7 +1,7 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
+using Newtonsoft.Json;
 
-namespace KoenZomers.UniFi.Api.Responses
+namespace UniFi.NET.Responses
 {
     /// <summary>
     /// Client details

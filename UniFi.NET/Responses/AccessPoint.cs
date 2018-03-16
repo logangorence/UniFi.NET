@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace KoenZomers.UniFi.Api.Responses
+namespace UniFi.NET.Responses
 {
     /// <summary>
     /// Access point details

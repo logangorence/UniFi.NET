@@ -1,4 +1,4 @@
-﻿namespace KoenZomers.UniFi.Api.Responses
+﻿namespace UniFi.NET.Responses
 {
     /// <summary>
     /// Base class to allow grouping all classes that represent UniFi Controller response messages
